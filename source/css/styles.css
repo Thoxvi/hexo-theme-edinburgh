@@ -172,8 +172,9 @@ h1, h2, h3 {
 }
 
 /* Diy */
-.col {
-  padding: 0px
+.full-img {
+  padding: 0px;
+  margin: 0px;
 }
 
 .in-the-top {
